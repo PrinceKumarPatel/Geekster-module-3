@@ -1,0 +1,4 @@
+I will be learning about git and its basic command.
+
+1. git init --> we have initialize the git repository.
+2. git status --> we have checked the status of the repository.
